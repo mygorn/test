@@ -1,6 +1,7 @@
 # my_app
 
-A new Flutter project.
+This is a Flutter project with UI modifications to display content on the web.
+
 
 ## Getting Started
 
