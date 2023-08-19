@@ -1,6 +1,6 @@
-# my_app
+#  HR_app
 
-A new Flutter project.
+This is the main Flutter project for the HR app.
 
 ## Getting Started
 
